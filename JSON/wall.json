@@ -1,17 +1,15 @@
 {
-  "walls": [
+"wallpapers":
+	[
     {
       "author": "Linked Designs",
       "url": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/chromaticmountains.png",
-      "thumb": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/chromaticmountains_thumb.png",
       "name": "Chromatic Mountains"
     },
     {
       "author": "Linked Designs",
       "url": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/collision.png",
-      "thumb": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/collision_thumb.png",
       "name": "Collision"
     }
   ]
 }
-
