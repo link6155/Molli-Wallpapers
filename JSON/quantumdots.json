@@ -99,15 +99,15 @@
 		},
 		{
 			"author": "Linked Designs",
-            		"url": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/ignite.png",
-            		"thumbUrl": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/ignite.png",
-            		"name": "Ignite"
-		},
-		{
-			"author": "Linked Designs",
             		"url": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/hapsengale.png",
             		"thumbUrl": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/hapsengale.png",
             		"name": "Hapsengale"
+		},
+		{
+			"author": "Linked Designs",
+            		"url": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/ignite.png",
+            		"thumbUrl": "https://raw.githubusercontent.com/link6155/Molli-Wallpapers/master/molliwallpapers/ignite.png",
+            		"name": "Ignite"
 		}
 	]
 }
